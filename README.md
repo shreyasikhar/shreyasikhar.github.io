@@ -1,1 +1,1 @@
-Shreyas Ikhar's Resume Website
+Check out my website at [https://shreyasikhar.github.io/](https://shreyasikhar.github.io/)
